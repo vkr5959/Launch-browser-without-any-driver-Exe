@@ -32,7 +32,7 @@ public class NewTest {
 	   public void testBMS()
 	   
 	   {
-		   driver.get("https://in.bookmyshow.com");
+		   driver.get("https://www.google.com");
 		   
 		   
 	   }
